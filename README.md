@@ -1,2 +1,1 @@
-# React diner menu
- A react app for restaurant menu
+# react-projects-5-menu
